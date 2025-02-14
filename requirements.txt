@@ -1,0 +1,4 @@
+# conda create -n hotpotqa python==3.12.9
+# conda install pytorch==2.5.1
+# pip install -U pip setuptools wheel
+# pip install spacy==3.8.2 ujson-5.10.0 tqdm==4.67.1 joblib==1.4.2
